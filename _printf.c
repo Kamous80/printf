@@ -35,7 +35,7 @@ Here:
 				goto Here;
 			}
 			j--;
-																							}
+		}
 		_putchar(format[i]);
 		len++;
 		i++;
